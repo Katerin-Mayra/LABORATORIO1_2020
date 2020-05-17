@@ -1,0 +1,24 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "problem.js",
+  "type": "module",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Katerin-Mayra/LABORATORIO1_2020.git"
+  },
+  "author": "kato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Katerin-Mayra/LABORATORIO1_2020/issues"
+  },
+  "homepage": "https://github.com/Katerin-Mayra/LABORATORIO1_2020#readme"
+}
