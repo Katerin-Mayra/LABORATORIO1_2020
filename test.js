@@ -1,3 +1,4 @@
+/// Nombre : Katerin Mayra Parra Alavrez
 import {cadena1,CadenaMan} from './problem.js';
 //let cad1=new cadena1("hola");
 ///////////////////////////////////////___PROBLEMA 1___//////////////////////////////////////////////////
